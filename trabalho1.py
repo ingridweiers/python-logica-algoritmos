@@ -25,5 +25,5 @@ else:
     print('Sem juros aplicados.')
     print(f'Valor da parcela: R$ {valorDaParcela:.2f}')
 
-#Dúvidas: porque esse codigo esta com erro de sintaxe no python ? elif quantidadeParcelas >= 4 and < 6:
+
    
